@@ -1,0 +1,10 @@
+{
+  "user_id": "DEMO_USER_ID",
+  "username": "demo_user",
+  "course": "Demo course",
+  "type": "Продажи",
+  "Score": "HIGH",
+  "summary": "Demo lead interested in course pricing.",
+  "total_requests": 2,
+  "status": "new"
+}
