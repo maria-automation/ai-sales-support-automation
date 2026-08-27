@@ -18,7 +18,11 @@ Managers receive repetitive customer messages and need to identify which convers
 - supports lead status updates through Telegram.
 
 ## Architecture
+### n8n workflow
 
+![n8n workflow overview](screenshots/workflow-overview.png)
+
+The workflow combines AI-based request analysis with customer history, lead scoring, automated responses, manager notifications and lead status management.
 ```text
 Customer -> Telegram -> Validation -> Customer history -> AI Agent
                                              |
